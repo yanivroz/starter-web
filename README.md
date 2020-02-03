@@ -16,6 +16,8 @@ some deployment
 
 ## How to contribute
 
+Please fork this repo
+
 ### Copyright
 
 2020 Yaniv
