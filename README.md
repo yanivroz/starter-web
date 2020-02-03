@@ -21,4 +21,4 @@ Please fork this repo
 
 ### Copyright
 
-2020 Yaniv
+2020 Yaniv, All rights reserved
