@@ -15,3 +15,7 @@ some purpose...
 some deployment
 
 ## How to contribute
+
+### Copyright
+
+2020 Yaniv
